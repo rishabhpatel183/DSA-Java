@@ -9,7 +9,7 @@ This repository contains my Java solutions to LeetCode problems. I solve problem
 ## 📊 Progress
 
 - **Language:** Java
-- **Problems Solved:** 19
+- **Problems Solved:** 20
 - **Current Topic:** Arrays
 - **Goal:** Solve 500+ LeetCode Problems
 
@@ -34,6 +34,7 @@ README.md
 | 26 | Remove Duplicates from Sorted Array | Easy | Two Pointers |
 | 27 | Remove Element | Easy | Two Pointers |
 | 53 | Maximum Subarray | Medium | Kadane's Algorithm |
+| 75 | Sort Colors | Medium | Dutch National Flag (Three Pointers) | O(n) | O(1) |
 | 88 | Merge Sorted Array | Easy | Two Pointers (In-place) |
 | 121 | Best Time to Buy and Sell Stock | Easy | Min/Max Tracking |
 | 125 | Valid Palindrome | Easy | Two Pointers |
