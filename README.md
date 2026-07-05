@@ -9,7 +9,7 @@ This repository contains my Java solutions to LeetCode problems. I solve problem
 ## 📊 Progress
 
 - **Language:** Java
-- **Problems Solved:** 20
+- **Problems Solved:** 21
 - **Current Topic:** Arrays
 - **Goal:** Solve 500+ LeetCode Problems
 
@@ -30,6 +30,7 @@ README.md
 |---|---------|------------|---------|
 | 1 | Two Sum | Easy | HashMap |
 | 11 | Container With Most Water | Medium | Two Pointers |
+| 15 | 3Sum | Medium | Sorting + Two Pointers | O(n²) | O(1) |
 | 20 | Valid Parentheses | Easy | Stack |
 | 26 | Remove Duplicates from Sorted Array | Easy | Two Pointers |
 | 27 | Remove Element | Easy | Two Pointers |
