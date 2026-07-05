@@ -9,7 +9,7 @@ This repository contains my Java solutions to LeetCode problems. I solve problem
 ## 📊 Progress
 
 - **Language:** Java
-- **Problems Solved:** 21
+- **Problems Solved:** 22
 - **Current Topic:** Arrays
 - **Goal:** Solve 500+ LeetCode Problems
 
@@ -39,6 +39,7 @@ README.md
 | 88 | Merge Sorted Array | Easy | Two Pointers (In-place) |
 | 121 | Best Time to Buy and Sell Stock | Easy | Min/Max Tracking |
 | 125 | Valid Palindrome | Easy | Two Pointers |
+| 167 | Two Sum II: Input Array Is Sorted | Easy | Two Pointers | O(n) | O(1) |
 | 169 | Majority Element | Easy | Boyer-Moore Voting |
 | 217 | Contains Duplicate | Easy | HashSet |
 | 242 | Valid Anagram | Easy | HashMap |
