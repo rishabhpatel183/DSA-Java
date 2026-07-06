@@ -9,7 +9,7 @@ This repository contains my Java solutions to LeetCode problems. I solve problem
 ## 📊 Progress
 
 - **Language:** Java
-- **Problems Solved:** 22
+- **Problems Solved:** 23
 - **Current Topic:** Arrays
 - **Goal:** Solve 500+ LeetCode Problems
 
@@ -46,6 +46,7 @@ README.md
 | 283 | Move Zeroes | Easy | Two Pointers |
 | 643 | Maximum Average Subarray I | Easy | Sliding Window |
 | 724 | Find Pivot Index | Easy | Prefix Sum |
+| 977 | Squares of a Sorted Array | Easy | Two Pointers | O(n) | O(n) |
 | 1470 | Shuffle the Array | Easy | Simulation |
 | 1480 | Running Sum of 1D Array | Easy | Prefix Sum |
 | 1672 | Richest Customer Wealth | Easy | Matrix Traversal |
