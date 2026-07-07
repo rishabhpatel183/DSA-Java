@@ -9,7 +9,7 @@ This repository contains my Java solutions to LeetCode problems. I solve problem
 ## 📊 Progress
 
 - **Language:** Java
-- **Problems Solved:** 24
+- **Problems Solved:** 25
 - **Current Topic:** Arrays
 - **Goal:** Solve 500+ LeetCode Problems
 
@@ -43,6 +43,7 @@ README.md
 | 167 | Two Sum II: Input Array Is Sorted | Easy | Two Pointers | O(n) | O(1) |
 | 169 | Majority Element | Easy | Boyer-Moore Voting |
 | 217 | Contains Duplicate | Easy | HashSet |
+| 238 | Product of Array Except Self | Medium | Prefix & Suffix Products | O(n) | O(1) Extra |
 | 242 | Valid Anagram | Easy | HashMap |
 | 283 | Move Zeroes | Easy | Two Pointers |
 | 643 | Maximum Average Subarray I | Easy | Sliding Window |
@@ -58,7 +59,7 @@ README.md
 ## 🎯 Goals
 
 - [x] Solve 10 Problems
-- [ ] Solve 25 Problems
+- [x] Solve 25 Problems
 - [ ] Solve 50 Problems
 - [ ] Solve 100 Problems
 - [ ] Solve 250 Problems
