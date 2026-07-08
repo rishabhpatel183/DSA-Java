@@ -9,7 +9,7 @@ This repository contains my Java solutions to LeetCode problems. I solve problem
 ## 📊 Progress
 
 - **Language:** Java
-- **Problems Solved:** 25
+- **Problems Solved:** 26
 - **Current Topic:** Arrays
 - **Goal:** Solve 500+ LeetCode Problems
 
@@ -46,6 +46,7 @@ README.md
 | 238 | Product of Array Except Self | Medium | Prefix & Suffix Products | O(n) | O(1) Extra |
 | 242 | Valid Anagram | Easy | HashMap |
 | 283 | Move Zeroes | Easy | Two Pointers |
+| 560 | Subarray Sum Equals K | Medium | Prefix Sum + HashMap | O(n) | O(n) |
 | 643 | Maximum Average Subarray I | Easy | Sliding Window |
 | 724 | Find Pivot Index | Easy | Prefix Sum |
 | 977 | Squares of a Sorted Array | Easy | Two Pointers | O(n) | O(n) |
