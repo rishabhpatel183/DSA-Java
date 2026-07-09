@@ -9,7 +9,7 @@ This repository contains my Java solutions to LeetCode problems. I solve problem
 ## 📊 Progress
 
 - **Language:** Java
-- **Problems Solved:** 26
+- **Problems Solved:** 27
 - **Current Topic:** Arrays
 - **Goal:** Solve 500+ LeetCode Problems
 
@@ -35,6 +35,7 @@ README.md
 | 26 | Remove Duplicates from Sorted Array | Easy | Two Pointers |
 | 27 | Remove Element | Easy | Two Pointers |
 | 42 | Trapping Rain Water | Hard | Two Pointers | O(n) | O(1) |
+| 49 | Group Anagrams | Medium | HashMap + Sorting | O(n × k log k) | O(n × k) |
 | 53 | Maximum Subarray | Medium | Kadane's Algorithm |
 | 75 | Sort Colors | Medium | Dutch National Flag (Three Pointers) | O(n) | O(1) |
 | 88 | Merge Sorted Array | Easy | Two Pointers (In-place) |
