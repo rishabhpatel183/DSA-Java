@@ -9,7 +9,7 @@ This repository contains my Java solutions to LeetCode problems. I solve problem
 ## 📊 Progress
 
 - **Language:** Java
-- **Problems Solved:** 27
+- **Problems Solved:** 28
 - **Current Topic:** Arrays
 - **Goal:** Solve 500+ LeetCode Problems
 
@@ -34,6 +34,7 @@ README.md
 | 20 | Valid Parentheses | Easy | Stack |
 | 26 | Remove Duplicates from Sorted Array | Easy | Two Pointers |
 | 27 | Remove Element | Easy | Two Pointers |
+| 36 | Valid Sudoku | Medium | HashSet + Matrix Traversal | O(1) | O(1) |
 | 42 | Trapping Rain Water | Hard | Two Pointers | O(n) | O(1) |
 | 49 | Group Anagrams | Medium | HashMap + Sorting | O(n × k log k) | O(n × k) |
 | 53 | Maximum Subarray | Medium | Kadane's Algorithm |
