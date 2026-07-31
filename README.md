@@ -9,7 +9,7 @@ This repository contains my Java solutions to LeetCode problems. I solve problem
 ## 📊 Progress
 
 - **Language:** Java
-- **Problems Solved:** 28
+- **Problems Solved:** 29
 - **Current Topic:** Arrays
 - **Goal:** Solve 500+ LeetCode Problems
 
@@ -41,6 +41,7 @@ README.md
 | 75 | Sort Colors | Medium | Dutch National Flag (Three Pointers) | O(n) | O(1) |
 | 88 | Merge Sorted Array | Easy | Two Pointers (In-place) |
 | 121 | Best Time to Buy and Sell Stock | Easy | Min/Max Tracking |
+| 128 | Longest Consecutive Sequence | Medium | HashSet | O(n) | O(n) |
 | 125 | Valid Palindrome | Easy | Two Pointers |
 | 167 | Two Sum II: Input Array Is Sorted | Easy | Two Pointers | O(n) | O(1) |
 | 169 | Majority Element | Easy | Boyer-Moore Voting |
